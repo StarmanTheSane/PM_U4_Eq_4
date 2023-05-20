@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="P_0_Plantilla.asm" />
+    <MASM Include="P_1_IntroVectores.asm" />
+    <MASM Include="P_2_IntroVectoresV2.asm" />
+    <MASM Include="P_3_IntroVectoresV3.asm" />
+    <MASM Include="P_4_IntroVectoresV4.asm" />
+    <MASM Include="P_5_VectorDword.asm" />
+    <MASM Include="P_6_TresVectoresByte.asm" />
+    <MASM Include="P_7_RecorridoArreglos.asm" />
+    <MASM Include="P_8_ValorMayor.asm" />
+    <MASM Include="P_9_ValorMenor.asm" />
+    <MASM Include="P_10_CuantosMenoresQueX.asm" />
+    <MASM Include="P_11_SQElementosVector.asm" />
+    <MASM Include="P_12_PromediosVector.asm" />
+    <MASM Include="P_13_ParesVector.asm" />
+    <MASM Include="P_14_InvertirVector.asm" />
+    <MASM Include="P_15_EntradaVector.asm" />
+    <MASM Include="P_16_DUP.asm" />
+    <MASM Include="P_17_LeerCaracteres.asm" />
+    <MASM Include="P_18_LeerCaracteres.asm" />
+    <MASM Include="P_19_ModificaCadena.asm" />
+    <MASM Include="P_20_ModifcaCadena2.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Macros.inc" />
+  </ItemGroup>
+</Project>
